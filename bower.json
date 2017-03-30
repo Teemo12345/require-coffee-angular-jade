@@ -1,0 +1,24 @@
+{
+  "name": "require-coffee-angular-jade",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "'Teemo12345' <'Teemo3307@qq.com'>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Teemo12345/require-coffee-angular-jade",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "requirejs": "^2.3.3",
+    "require-jade": "^0.0.3",
+    "require-cs": "^0.5.0"
+  }
+}
